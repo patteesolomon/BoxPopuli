@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "FUp3qUH7RAPO+id+8OXKUjFWcRctcl5bJIEpCrCfELhh/WqiBrtoGX6AiFazpk5uGzllM1i7HgydCSATxcZyVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\azuka\\source\\repos\\BlazorzBP\\Bp\\Bp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azuka\\.nuget\\packages\\angularjs.typescript.definitelytyped\\6.5.6\\angularjs.typescript.definitelytyped.6.5.6.nupkg.sha512",
+    "C:\\Users\\azuka\\.nuget\\packages\\jquery.typescript.definitelytyped\\0.0.1\\jquery.typescript.definitelytyped.0.0.1.nupkg.sha512",
+    "C:\\Users\\azuka\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\azuka\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "angularjs.TypeScript.DefinitelyTyped 6.5.6 does not provide an inclusive lower bound for dependency jquery.TypeScript.DefinitelyTyped. An approximate best match of jquery.TypeScript.DefinitelyTyped 0.0.1 was resolved.",
+      "libraryId": "jquery.TypeScript.DefinitelyTyped",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
